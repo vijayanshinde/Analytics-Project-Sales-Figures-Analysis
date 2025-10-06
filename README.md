@@ -65,17 +65,6 @@ Analyze retail sales data to uncover trends, regional performance, and profit dr
 - Top-performing products by sales
 - Impact of discounting on profitability
 
----
-
-## 🧠 Interview-Ready Summary
-
-> “I built a cloud-integrated analytics project using a retail dataset. After cleaning the data in Python, I uploaded it to BigQuery and wrote SQL queries to analyze sales trends and product performance. I connected Power BI to BigQuery to build an interactive dashboard with KPIs and filters. This project demonstrates my ability to work across Python, SQL, and cloud-based BI tools.”
-
----
-
-## ⚠️ Note
-
-If publishing this repo publicly, **remove or `.gitignore` the JSON key file** (`st-proj-retail-eda-sql-pow-bi-1022115cf4e9.json`) to avoid exposing credentials.
 
 ---
 
@@ -83,5 +72,5 @@ If publishing this repo publicly, **remove or `.gitignore` the JSON key file** (
 
 **Vijayan Shinde (VJ)**  
 MSc Data Analytics & Decision Science – RWTH Aachen  
-Cloud-integrated analytics enthusiast | Python, SQL, Power BI | Workflow automation & reproducibility
+Cloud-integrated analytics and Machine learning enthusiast | Python, SQL, Power BI | Workflow automation & reproducibility
 
