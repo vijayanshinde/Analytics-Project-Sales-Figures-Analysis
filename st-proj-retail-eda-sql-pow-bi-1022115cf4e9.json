@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "st-proj-retail-eda-sql-pow-bi",
+  "private_key_id": "1022115cf4e99e9068bd6dcefc906c571ea7f085",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCgKuPplVqSg0zo\nXHqif1Nds6ekW60XffGjr+OcoC45Mdnpm7n37lOKCfU9Aq0Od+IJuYvkNssbFoDq\nUXc7OgRlcpD0NxgIBJcSmIhbWY6jBciDmM03Yw+iMsW9m2J/9yDHzkDJEq0nrv4U\nXincxv0nZH0lxp01MNu18kIfi0mpDdzVf1FQo7HighwHx718/ES7RebVRBNBkUwB\nK7EbayCiPzrwaZSr4+5fORPs/VCJHn3A5c9ZNhT2KwVfIui+xxQuSdNfkT1uxYVc\n4Ux94f1FhxAfVqEsQflyT9x2T3kMFZ5dMdJdfLK2iLiV4tIjKlcR2LrPaAZXih2V\nfNSZYnknAgMBAAECggEADqLMtjzjjJoUWyYnckjpsJk1ocz0z/ELNZ0UuTlgvL49\nWCqjf30j3VKhBwTpe0LhZ2hKpb1Ydi6D89i86S8ZVSUQ2BgriU2hRndxlZnLitvn\nVLGP8yM8u8juJxZ9yKbBZ2PsD9O1xsR0mFGtSDm9l8duSv219bUNjR58BCjn8sHA\na3ARXgs27kAcHHUvZJcZMZrHT1cWDK99DhfHjuGb1TkOzZvhGqnguhjDMTZRrsIQ\nCMUgLOn8+0PtLIOduDeBzuF8p5/P8CXYDHqY1nSJEWwQuCanJjKdPX/KVctPLQSD\ngJi0fUVuf5GbsWJ2ukRGXhTk6dUlJX9K2Td8tkBj9QKBgQDPIv0ImzVxw+Prz8Pu\nSDZuLiY/ac241Ty7liHTHm9sa2QzTLBHYfH1yWhlLZrxDoV4ORDNSErJuu8trayC\n080AhBSuBUBXmXXFJKCLLu8ZmNMma67xhXk6enV8P7bVHeQtP2SRQEWvXbzWqbzw\ngkKPXCgD1RfYU8XkkE0IjkxanQKBgQDF8235gIGT2rDhCiOGkAnUAfc269Ymawzx\nm+AupBeF8YHald/fQ6ux8TwW8eXrR71PXLOuMK6Lykc91fpBLfb+Ya7WSGo22opP\nc6O/kPxbWw775geL8mfNY/fGn5KnGvvr6nDTt3EH5SgPVCzRlqeOKCORbXIpDeIS\nNa+l+azlkwKBgQDA9hs6dTxoatBc0QP5apQqOBuxX2MiGKOnLMj935B1M+X4VCyz\nku7QxXvXJZD9l0WHJcIdOodRPi+qIexfQ+fp3yFUq9eww2kO6nwUrPhYpCGv3Qjw\nPiMc8w+XW9N63Ym/DRsmpPVF1NEiOKWmd/KBkpxEVbMM952Wu0bH/afrkQKBgQDC\n3GlMDSaBZ+xq+1IRasViADVdyTbcRtFNHgbHoxzM6/rKNHNXEwR3fGOMqr+MpuhC\nsZznQmDwl0UeJ//cHeVgcMRtiIeWS/ePUuTE9XKWc8MCUWTobM2mMFx/GCKDgVqw\n1+4NXC1Weky/GjusbkOu+vBYfoa8xz/ecR7hojCDJQKBgEinHyijK2rRraIzn+oi\ns7OvKVeFHKi/oLGwX9IqsNysOxR18asQrN7avIrjbSGkyUnhxuUCzuzbyrE/C1y1\nbq5+9iVaUeHmPj8nXfj1ZNTDy/Db2GSoDtJZX/qabOOsEkKjOQIIoGYFaRt6Dw8I\nbf3MwE5g4CSRvK+jLRi+Sdmp\n-----END PRIVATE KEY-----\n",
+  "client_email": "bigquery-uploader@st-proj-retail-eda-sql-pow-bi.iam.gserviceaccount.com",
+  "client_id": "115844829892782983889",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bigquery-uploader%40st-proj-retail-eda-sql-pow-bi.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
