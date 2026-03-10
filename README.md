@@ -1,10 +1,10 @@
-# 🛍️ Retail Sales & Profit Analysis – End-to-End Analytics Project
+#  Retail Sales & Profit Analysis – End-to-End Analytics Project
 
 This repository contains a complete, beginner-friendly, cloud-integrated analytics workflow built around a retail dataset. It demonstrates data cleaning, exploratory analysis, cloud SQL integration, and interactive dashboarding using Python, BigQuery, and Power BI.
 
 ---
 
-## 🎯 Objective
+##  Objective
 
 Analyze retail sales data to uncover trends, regional performance, and profit drivers. The project simulates a real-world analytics pipeline using:
 
@@ -14,7 +14,7 @@ Analyze retail sales data to uncover trends, regional performance, and profit dr
 
 ---
 
-## 📁 Repository Structure
+##  Repository Structure
 
 | File | Description |
 |------|-------------|
@@ -27,7 +27,7 @@ Analyze retail sales data to uncover trends, regional performance, and profit dr
 
 ---
 
-## 🔧 Tools & Technologies
+##  Tools & Technologies
 
 - **Python**: pandas, matplotlib, seaborn, google-cloud-bigquery
 - **Google Cloud BigQuery**: cloud-hosted SQL queries
@@ -36,7 +36,7 @@ Analyze retail sales data to uncover trends, regional performance, and profit dr
 
 ---
 
-## 🚀 Workflow Summary
+##  Workflow Summary
 
 1. **Data Acquisition**  
    Downloaded `Sample - Superstore.csv` from Kaggle and saved as `superstore_cleaned.csv` after cleaning.
@@ -58,7 +58,7 @@ Analyze retail sales data to uncover trends, regional performance, and profit dr
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - Regional sales distribution and profit margins
 - Monthly revenue trends
@@ -68,7 +68,7 @@ Analyze retail sales data to uncover trends, regional performance, and profit dr
 
 ---
 
-## 📌 Author
+##  Author
 
 **Vijayan Shinde (VJ)**  
 MSc Data Analytics & Decision Science – RWTH Aachen  
