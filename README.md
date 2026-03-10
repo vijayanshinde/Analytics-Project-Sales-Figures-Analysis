@@ -21,7 +21,7 @@ Analyze retail sales data to uncover trends, regional performance, and profit dr
 | `1st-proj-retail-eda-sql-pow-bi.ipynb` | Main Jupyter notebook: loads raw data, cleans it, performs EDA, visualizes trends, and uploads cleaned CSV to BigQuery |
 | `superstore_cleaned.csv` | Cleaned dataset generated from the notebook, ready for SQL and dashboarding |
 | `Sample - Superstore.csv` | Original dataset downloaded from Kaggle |
-| `st-proj-retail-eda-sql-pow-bi-1022115cf4e9.json` | Google Cloud service account key for BigQuery authentication (⚠️ should be excluded from public repos) |
+| `st-proj-retail-eda-sql-pow-bi-1022115cf4e9.json` | Google Cloud service account key for BigQuery authentication (should be excluded from public repos) |
 | `superstore_sales_visualization.pbix` | Power BI file connected to BigQuery, containing visuals and KPIs |
 | `Dashboard-superstore_sales.pdf` | Exported PDF of the Power BI dashboard for quick reference or sharing |
 
